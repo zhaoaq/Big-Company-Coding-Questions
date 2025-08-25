@@ -1,3 +1,4 @@
+# 有向图 dfs 邻接表
 from collections import defaultdict
 n = int(input())
 g = defaultdict(list)
